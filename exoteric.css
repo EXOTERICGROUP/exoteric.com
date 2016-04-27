@@ -15,6 +15,16 @@
 .footer-code.footer-module {
     color: grey;
 }
-.posts .post-content .post-info hover {
+.posts .post-content .post-info:hover {
     background-color: rgba(15, 16, 16, 0.7);
+}
+.zone-highlighter:hover {
+  border-color: rgba(15, 15, 16, 0.6);
+}
+
+.user-menu-wrapper.secondaryNav-module.header-submodule {
+    color: black;
+}
+span.menu-label-text {
+    color: black;
 }
